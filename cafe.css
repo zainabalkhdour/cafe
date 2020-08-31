@@ -139,10 +139,33 @@ blockquote{
     border-bottom-width: 0px;
 
 }
+.menuButton{
+    position: relative;
+    left: 360px;
+    width: 350px;
+    height: 26px;
+    border-color: whitesmoke;
+    background-color: darkgray;
+    border-left: 8px;
+    border-bottom: 8px;
+    border-top: 8px;
+    border-right: 8px;
+    border: 1px solid lightgrey ;
+ 
+}
+
+table{
+    border: 1px solid lightgray;
+    
+    position: relative;
+    left: 360px;
+    width: 700px;
+}
+
 form{
     position: relative;
     left: 360px;
-
+    
 }
 input{
     width: 700px;
